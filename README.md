@@ -9,3 +9,5 @@ Esta documentación es de uso exclusivo de clientes de LabLab.
 ## Servicios disponible
 
 - [LabLab OAuth SignIn](./doc/oauth-signin/index.md)
+
+- [LabLab Api Chatbot](./doc/api-chatbot/index.md)
