@@ -36,6 +36,8 @@ Este recurso le permite obtener el programa al que está inscripto el usuario.
         "data": {
             "id": "ecb7937db58ec9dea0c47db88463d85e81143032",
             "full_name": "Miguel Jordán",
+            "phone": "+569 4229 4079",
+            "email": "ingenierojordan@gmail.com",
             "program": "ejecutivo"
         }
     }
