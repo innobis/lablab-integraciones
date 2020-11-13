@@ -49,14 +49,14 @@ Este recurso le permite obtener el programa al que está inscripto el usuario.
         "message": "Not Found."
     }
 
-## Medias
+## Medias de Usuarios
 
 Este recurso le permite obtener una url de la sección de un curso para ser visualizada.
 
 ### Petición
 
     GET
-    /api/chatbot/medias/{slug}
+    /api/chatbot/users/{hash}/medias/{slug}
 
 ### Respuesta de Exito
 
